@@ -1,4 +1,4 @@
-# Hello girls and fellas!
+<h1 align="center">Hello girls and fellas!</h1>
 
 - 🔭 Working on Deep Learning and Web Development.
 - 🐝 Beyoncé's biggest fan.
