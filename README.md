@@ -1,6 +1,6 @@
 <h1 align="center">Hello girls and fellas!</h1>
 
-- 🔭 Working on Deep Learning and Web Development.
+- 🔭 Studying about Distributed Computing, I'm bored of AI bs.
 - 🐝 Beyoncé's biggest fan.
 - 🫣 A weeb.
 
