@@ -4,12 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A learner and an artist at heart 🎶
 -----------------------------------
 
-I’m a computer science student with a wide range of interests, from deep dives into computer science concepts, high-performance computing, and programming languages, to exploring diverse programming paradigms (functional programming is the superior paradigm btw). Outside of tech, I care deeply about social and environmental issues, advocating for gender equality, racial equality, LGBTQ+ rights, and human rights in general. I believe that socialism and communism, if implemented correctly and zero corruption, will create a better society, and obviously, I despise capitalism and corporate culture. I’m also a passionate cyclist and dream of one day cycling around Vietnam. Though financial challenges have held me back in the past, I’m now fully committed to realizing my dreams. My ultimate goal? To become a PhD computer scientist who’s also a renowned vocalist.
+I’m a computer science student with a wide range of interests, from deep dives into computer science concepts, high-performance computing, and programming languages, to exploring diverse programming paradigms (functional programming is the superior paradigm btw).
+Outside of tech, I care deeply about social and environmental issues, advocating for gender equality, racial equality, LGBTQ+ rights, and human rights in general.
+I believe that socialism and communism, if implemented correctly and free of corruption, will create a better society (and obviously, I despise capitalism and corporates).
+I’m also a passionate cyclist and dream of one day cycling around Vietnam. Though financial challenges have held me back in the past, I’m now fully committed to realizing my dreams. My ultimate goal? To become a PhD computer scientist who’s also a renowned vocalist.
 
 * 🌍  I'm based in Vietnam 🇻🇳
 * ✉️  You can contact me at [minh.pham1126@gmail.com](mailto:minh.pham1126@gmail.com)
 * 🧠  I'm learning parallel programming, low level programming, functional programming, and singing.
-* ⚡  I'm secretly a nerd about operating system and many dev tools. #iuseneovimbtw #nixos #macos
+* ⚡  I'm secretly a nerd about operating system and many dev tools.
+#iuseneovimbtw #nixos #macos
 
 ### Skills
 
