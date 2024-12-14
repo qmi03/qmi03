@@ -15,7 +15,7 @@ I’m also a passionate cyclist and dream of one day cycling around Vietnam. Tho
 * ✉️  You can contact me at [minh.pham1126@gmail.com](mailto:minh.pham1126@gmail.com)
 * 🧠  I'm learning parallel programming, concurrency models, low level programming, functional programming, and singing.
 * ⚡  I'm secretly a nerd about operating system and various dev tools.
-#iuseneovimbtw #nixos #macos
+#iUseNeovimBtw #nixos #macos #iUseArchBtw
 
 ### Skills
 
